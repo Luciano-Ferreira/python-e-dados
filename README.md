@@ -26,3 +26,8 @@ Removendo uma coluna comm a função drop
  e aquji sao dataframes não iremos manipular pela coluna e sim pelo titulo dela
 
  ![image](https://github.com/Luciano-Ferreira/python-e-dados/assets/46464433/61b7b356-722b-4983-b9a1-ce7c99861bb2)
+
+
+![alt text](image.png)
+
+formatando o tipo float
